@@ -9,19 +9,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dedc992-f726-4597-9a08-93966127dcb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebVersioning.Api.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebVersioning.Api.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebVersioning.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebVersioning.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/WebVersioning.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/WebVersioning.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/WebVersioning.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/WebVersioning.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/WebVersioning.Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/WebVersioning.Api.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/WebVersioning.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/refint/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/WebVersioning.Api.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +34,16 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2Wn5i0LUmahpwfejZDyiY3Cbmlo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697355634297</updated>
-      <workItem from="1697355654840" duration="1551000" />
+      <workItem from="1697355654840" duration="3144000" />
     </task>
     <servers />
   </component>
@@ -111,6 +111,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
