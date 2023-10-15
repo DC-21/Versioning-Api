@@ -8,16 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dedc992-f726-4597-9a08-93966127dcb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Controllers/v2/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebVersioning.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebVersioning.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/WebVersioning.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/refint/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/WebVersioning.Api.dll" afterDir="false" />
+    <list default="true" id="3dedc992-f726-4597-9a08-93966127dcb0" name="Changes" comment="different versions and controllers">
+      <change beforePath="$PROJECT_DIR$/Controllers/v2/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/v2/WeatherForecastController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -103,15 +96,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697355634297</updated>
-      <workItem from="1697355654840" duration="3770000" />
+      <workItem from="1697355654840" duration="4469000" />
     </task>
+    <task id="LOCAL-00001" summary="different versions and controllers">
+      <option name="closed" value="true" />
+      <created>1697359598249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697359598249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="different versions and controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="different versions and controllers" />
   </component>
 </project>
