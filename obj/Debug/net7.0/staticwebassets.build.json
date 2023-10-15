@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YTqhxns9BlqrTst52jPUKHtrFwI9R7I5dJqt8jEArNs=",
+  "Source": "WebVersioning.Api",
+  "BasePath": "_content/WebVersioning.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
