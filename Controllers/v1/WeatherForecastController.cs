@@ -4,7 +4,7 @@ namespace WebVersioning.Api.Controllers.v1;
 
 [ApiController]
 [Route("api/v{version:apiVersion}/[controller]")]
-[ApiVersion("1.0")]
+[ApiVersion("1.0",Deprecated = true)]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]

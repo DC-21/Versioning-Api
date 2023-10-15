@@ -9,7 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dedc992-f726-4597-9a08-93966127dcb0" name="Changes" comment="different versions and controllers">
-      <change beforePath="$PROJECT_DIR$/Controllers/v2/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/v2/WeatherForecastController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/v1/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/v1/WeatherForecastController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697355634297</updated>
-      <workItem from="1697355654840" duration="4469000" />
+      <workItem from="1697355654840" duration="4792000" />
     </task>
     <task id="LOCAL-00001" summary="different versions and controllers">
       <option name="closed" value="true" />
