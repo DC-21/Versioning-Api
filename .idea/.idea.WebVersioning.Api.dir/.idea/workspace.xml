@@ -9,11 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dedc992-f726-4597-9a08-93966127dcb0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebVersioning.Api.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebVersioning.Api.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/v2/WeatherForecastController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebVersioning.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebVersioning.Api.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/WebVersioning.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/WebVersioning.Api.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/WebVersioning.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/WebVersioning.Api.dll" afterDir="false" />
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697355634297</updated>
-      <workItem from="1697355654840" duration="3144000" />
+      <workItem from="1697355654840" duration="3770000" />
     </task>
     <servers />
   </component>
